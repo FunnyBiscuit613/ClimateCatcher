@@ -531,6 +531,19 @@
         document.querySelectorAll('.fade-in').forEach(element => {
             observer.observe(element);
         });
+
+        // 添加下载按钮点击事件处理
+        document.getElementById('downloadBtn').addEventListener('click', function() {
+            document.getElementById('downloadModal').style.display = 'block';
+        });
+
+        // 添加模态框关闭功能
+        window.onclick = function(event) {
+            const modal = document.getElementById('downloadModal');
+            if (event.target == modal) {
+                modal.style.display = 'none';
+            }
+        };
     </script>
 </body>
 </html>
