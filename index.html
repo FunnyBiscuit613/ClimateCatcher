@@ -438,11 +438,6 @@
             <h3>下一版本功能预告</h3>
             <div class="upcoming-grid">
                 <div class="upcoming-card">
-                    <h4>ERA5数据下载</h4>
-                    <p>集成CDSAPI工具，直接从ERA5官网获取逐小时、日、月的再分析数据。</p>
-                    <span class="eta">预计发布时间：2024 Q4</span>
-                </div>
-                <div class="upcoming-card">
                     <h4>环境监测数据获取</h4>
                     <p>支持全球AQI、NO等环境数据下载</p>
                     <span class="eta">预计发布时间：2025 Q1</span>
@@ -535,27 +530,6 @@
 
         document.querySelectorAll('.fade-in').forEach(element => {
             observer.observe(element);
-        });
-
-        // 添加下载模态框相关函数
-        function showDownloadModal() {
-            document.getElementById('downloadModal').style.display = 'block';
-        }
-
-        // 点击模态框外部关闭
-        window.onclick = function(event) {
-            const modal = document.getElementById('downloadModal');
-            if (event.target == modal) {
-                modal.style.display = 'none';
-            }
-        }
-
-        // 确保 DOM 加载完成后再添加事件监听
-        document.addEventListener('DOMContentLoaded', function() {
-            const downloadBtn = document.getElementById('downloadBtn');
-            if (downloadBtn) {
-                downloadBtn.addEventListener('click', showDownloadModal);
-            }
         });
     </script>
 </body>
