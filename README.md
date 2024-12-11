@@ -60,10 +60,7 @@
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/9f9448c04bd34545baf125e94ab86c82.png)
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/ceff895c52e24809a39128f1f1539242.png)
 
-
 https://funnybiscuit613.github.io/ClimateCatcher/
-
-github可能访问不成功，大家可以试试切换DNS或者下载一个watt 工具箱！
 
 
 
