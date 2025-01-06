@@ -60,7 +60,6 @@
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/9f9448c04bd34545baf125e94ab86c82.png)
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/ceff895c52e24809a39128f1f1539242.png)
 
-https://funnybiscuit613.github.io/ClimateCatcher/
 
 
 
