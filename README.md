@@ -1,10 +1,12 @@
 # ClimateCatcher
 # 更新日志
-###########################################
+<font style="color:rgb(31, 35, 40);">###########################################</font>
 
-2025.06.01 儿童节快乐
-台站数据下载页面：由Cartopy静态地图框架切换为Leaflet，提升交互体验；
-软件框架：由Pyqt5框架迁移到Pyside6框架。
+<font style="color:rgb(31, 35, 40);">2025.06.01 儿童节快乐 </font>
+
+<font style="color:rgb(31, 35, 40);">台站数据下载页面：由Cartopy静态地图框架切换为Leaflet，提升交互体验；</font>
+
+<font style="color:rgb(31, 35, 40);">软件框架：由Pyqt5框架迁移到Pyside6框架。</font>
 
 ###########################################
 
@@ -57,22 +59,22 @@ ERA5数据下载页面：汉化ERA5各变量名称，添加下拉框搜索功能
 ## 国际交换站数据下载
 本模块主要下载全球各个国家或地区的气象台站观测数据，这些数据主要是1小时或者3小时分辨率，部分地区可能为6小时分辨率，时间是标准的UTC时区，因此在后需处理过程中需要注意（本程序并并未对时区进行处理）
 
-![](https://cdn.nlark.com/yuque/0/2025/png/56568744/1747061720534-aa4b1c4d-4356-4227-b985-0d7c9e235435.png)  
-![](https://cdn.nlark.com/yuque/0/2025/png/56568744/1747061738103-56a55266-4c6b-4319-8f83-4e0b38d42d80.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/56568744/1748788914880-0c9dfa1c-a814-4fe9-b3c3-6d35aedbd724.png)  
+![](https://cdn.nlark.com/yuque/0/2025/png/56568744/1748788933664-841588f7-a214-4bad-a489-8c4cec6a2fab.png)
 
 （所有台站信息来自于NOAA，与作者无关）
 
 选择好国家或者地区，输入起止年份，直接点击'开始下载即可'  
-![](https://cdn.nlark.com/yuque/0/2025/png/56568744/1747061799003-bc1fbc8d-beb6-4331-be17-d122b5486306.png)  
+![](https://cdn.nlark.com/yuque/0/2025/png/56568744/1748788955428-25aa8114-1586-4745-aaa3-85730383149e.png)  
 正在下载数据
 
-![](https://cdn.nlark.com/yuque/0/2025/png/56568744/1747061828431-1a0e1f93-9657-4588-9e8b-12209ffa9431.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/56568744/1748788962466-ac41a3e1-a1df-4b09-84bf-7935d065c41d.png)
 
 数据下载完成  
-![](https://cdn.nlark.com/yuque/0/2025/png/56568744/1747061912462-084b5418-4421-4341-987c-8e32b3218800.png)  
+![](https://cdn.nlark.com/yuque/0/2025/png/56568744/1748789189659-f7dc9ef1-f325-44e6-a7bd-c9042cf1a927.png)  
 下载的数据可以在软件根目录下的Download文件夹中找到，其中docs文件夹为台站所属国家信息、台站元信息、数据格式的说明，其余文件为气象观测数据（注意时间为UTC世界时，在后续处理过程中需要注意）
 
-![](https://cdn.nlark.com/yuque/0/2025/png/56568744/1747061965065-2c71bd2b-3cdd-439c-baee-5c8438f4ce79.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/56568744/1748789229411-bc2538a8-2f0a-48cf-91ec-6bff8d5c57e5.png)
 
 docs文件夹内容
 
@@ -127,7 +129,7 @@ docs文件夹内容
 ![](https://cdn.nlark.com/yuque/0/2025/png/56568744/1747062714516-1b0cb86b-70be-4705-81de-431907ca0549.png)
 
 大家注册好之后，将url和key这两个字段复制到里面，然后点保存就好了！  
-![](https://i-blog.csdnimg.cn/direct/7da943e7b4a04eca947e5bc384c655a3.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/56568744/1748788871605-f8ac3af6-6a65-411a-b512-b66135946294.png)
 
 随后，即可使用本软件批量下载ERA5数据了。  
 目前本软件支持下载ERA5-Land、ERA5-single-level和ERA5-pressure-level。以及这三个数据集逐小时、逐日（支持时区转换）、逐月数据。  
@@ -147,3 +149,10 @@ docs文件夹内容
 点击‘下载全部台站数据’即可根据查询信息直接下载所有的台站AQI
 
 ![](https://cdn.nlark.com/yuque/0/2025/png/56568744/1747063335614-e009fc39-12b5-4dc8-a4f3-6cc75e48a58b.png)
+
+# 下载地址
+[https://funnybiscuit613.github.io/ClimateCatcher/](https://funnybiscuit613.github.io/ClimateCatcher/)
+
+![](https://cdn.nlark.com/yuque/0/2025/png/56568744/1747064116469-33cdca98-a326-44c9-9d02-9abf162da6a3.png)  
+![](https://cdn.nlark.com/yuque/0/2025/png/56568744/1747064126877-c14f34e3-dabc-4805-bfb7-ecf66b34f82a.png)
+
