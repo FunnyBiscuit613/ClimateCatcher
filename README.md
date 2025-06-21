@@ -2,6 +2,12 @@
 # 更新日志
 <font style="color:rgb(31, 35, 40);">###########################################</font>
 
+<font style="color:rgb(31, 35, 40);">2025.06.22 </font>
+
+<font style="color:rgb(31, 35, 40);">修复工具栏无法弹出菜单的Bug；</font>
+
+<font style="color:rgb(31, 35, 40);">###########################################</font>
+
 <font style="color:rgb(31, 35, 40);">2025.06.01 儿童节快乐 </font>
 
 <font style="color:rgb(31, 35, 40);">台站数据下载页面：由Cartopy静态地图框架切换为Leaflet，提升交互体验；</font>
