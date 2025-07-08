@@ -2,6 +2,12 @@
 # 更新日志
 <font style="color:rgb(31, 35, 40);">###########################################</font>
 
+<font style="color:rgb(31, 35, 40);">2025.07.07 </font>
+
+<font style="color:rgb(31, 35, 40);">将环境检测数据的官网直接嵌入至环境检测数据下载页面中，如需下载完整数据集可通过CSDN的聊天功能联系到博主：https://blog.csdn.net/qq_44907989?spm=1000.2115.3001.5343；</font>
+
+<font style="color:rgb(31, 35, 40);">###########################################</font>
+
 <font style="color:rgb(31, 35, 40);">2025.06.22 </font>
 
 <font style="color:rgb(31, 35, 40);">修复工具栏无法弹出菜单的Bug；</font>
