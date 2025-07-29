@@ -3,11 +3,17 @@
 <font style="color:rgb(31, 35, 40);">###########################################</font>
 
 <font style="color:rgb(31, 35, 40);">2025.07.30 </font>
+
 <font style="color:rgb(31, 35, 40);">ERA5支持多要素下载；</font>
+
 <font style="color:rgb(31, 35, 40);">修复日期选择弹出窗为黑底黑字的BUG；</font>
+
 <font style="color:rgb(31, 35, 40);">新增软件启动自动检测是否有可用更新；</font>
+
 <font style="color:rgb(31, 35, 40);">更新台站基础信息到当前日期；</font>
+
 <font style="color:rgb(31, 35, 40);">优化多个组件的大小；</font>
+
 
 <font style="color:rgb(31, 35, 40);">###########################################</font>
 
