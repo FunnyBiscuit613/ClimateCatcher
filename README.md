@@ -10,7 +10,7 @@
 
 <font style="color:rgb(31, 35, 40);">新增软件启动自动检测是否有可用更新；</font>
 
-<font style="color:rgb(31, 35, 40);">更新台站基础信息到当前日期；</font>
+<font style="color:rgb(31, 35, 40);">更新台站基础信息到2025年7月26日；</font>
 
 <font style="color:rgb(31, 35, 40);">优化多个组件的大小；</font>
 
